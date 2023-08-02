@@ -87,19 +87,19 @@ It includes features that allows user to chat, video call, screen share with eac
 
 ## Group Members Info
 
-1. Kirti Shinde(Team Lead)
+1. Rishab Kumar Chaurasiya
+   >    - e-Mail: rishabkumarchaurasiya@gmail.com
+   >    - GitHub: https://github.com/git-rishab
+
+
+2. Kirti Shinde
    >    - e-Mail: kirti182001@gmail.com
    >    - GitHub: https://github.com/Kirti180
 
 
-2. Love Porwal
+3. Love Porwal
    >    - e-Mail: lluvporwall@gmail.com
    >    - GitHub: https://github.com/love-porwal 
-
-
-3. Rishab Kumar Chaurasiya
-   >    - e-Mail: rkc3660@gmail.com
-   >    - GitHub: https://github.com/git-rishab
 
 
 4. Pankaj Jain
